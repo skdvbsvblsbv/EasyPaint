@@ -78,7 +78,7 @@ void AdditionalTools::resizeCanvas(int width, int height, bool flag)
 	mPImageArea->clearSelection();
 }
 
-//set default canvas 800:600
+//chrisyou set default canvas 800:600
 void AdditionalTools::defaultCanvas(int width, int height, bool flag)
 {
 	width = 800;
@@ -104,7 +104,7 @@ void AdditionalTools::defaultCanvas(int width, int height, bool flag)
 	}
 }
 
-//set default canvas 1280:720
+//chrisyou set default canvas 1280:720
 void AdditionalTools::defaultCanvas2(int width, int height, bool flag)
 {
 	width = 1280;
