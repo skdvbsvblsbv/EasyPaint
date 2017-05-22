@@ -212,7 +212,7 @@ void AdditionalTools::update() //chrisyou extracted from flip function prefactor
 	mPImageArea->clearSelection();
 }
 
-void AdditionalTools::mirror(bool check){ //change request 3 used update function extracted from significant concept
+void AdditionalTools::mirror(bool check){ //chrisyou change request 3 used update function extracted from significant concept
 	int height = mPImageArea->getImage()->rect().height();
 	int width = mPImageArea->getImage()->rect().width();
 	int xheight, xheight2;
