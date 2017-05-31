@@ -1,4 +1,6 @@
-/*
+//Chris You-Implemented change requests/*
+
+
 * This source file is part of EasyPaint.
 *
 * Copyright (c) 2012 EasyPaint <https://github.com/Gr1N/EasyPaint>
